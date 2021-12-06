@@ -1,0 +1,34 @@
+/*.membre{
+    display: block;
+    background-color: red;
+    padding: 10px  10px;
+    margin-bottom: 10px;
+    border: 3px blue dashed;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 100px 100x 100px 100px  rgba(0, 0, 0, 0.4); 
+   position: relative;
+   border-radius: 2px;
+ }
+ */
+
+
+ 
+.message-box  .message{
+  padding: 3px 8px;
+    margin: 0px  0;
+    border-radius: 12px;
+   /* max-width: 75%;*/
+    display:block;
+    min-height: 55px;
+    width: 100px;
+    height: 100px;
+  
+  }
+  .message-box .message{
+   
+     background-color:#2195F2;
+     padding: 30px 30px 30px 30px;
+     margin: 150px 0 0 30px;
+     border-radius: 12px;
+  /* max-width: 75%;*/
+  }
